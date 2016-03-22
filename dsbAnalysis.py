@@ -9,6 +9,8 @@ import random
 
 answerFile = "answers.csv"
 
+print "splash screen"
+
 ###############
 #   
 #   Read in answers. Format is same as submission with single colume of volumes
